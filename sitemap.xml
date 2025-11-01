@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://avnox.store/</loc>
+    <loc>https://yourdomain.com/</loc>
     <lastmod>2025-11-01</lastmod>
-    <priority>1.0</priority>
+    <priority>1.00</priority>
   </url>
+
   <url>
-    <loc>https://avnox.store/about</loc>
+    <loc>https://yourdomain.com/about</loc>
     <lastmod>2025-11-01</lastmod>
-    <priority>0.8</priority>
+    <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://avnox.store/contact</loc>
+    <loc>https://yourdomain.com/contact</loc>
     <lastmod>2025-11-01</lastmod>
-    <priority>0.7</priority>
+    <priority>0.80</priority>
   </url>
+
 </urlset>
